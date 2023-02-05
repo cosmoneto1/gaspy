@@ -1,0 +1,12 @@
+div.code {
+  white-space: pre;
+}
+
+#listEvents {
+  width: 600px;
+  overflow: auto;
+  max-height: 300px;
+}
+.p-1 {
+  padding: 1rem;
+}
